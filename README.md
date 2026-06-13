@@ -79,4 +79,10 @@ The agent then works through the request transparently, showing each step:
 
 ## About
 
+<img width="2848" height="1472" alt="Google for Startups - AI Agents Challenge" src="https://github.com/user-attachments/assets/f51229af-204d-44c2-b35f-82c438bedd49" />
+
+Built for Google for Startups - AI Agents Challenge.
+
 Built by Julia Suzuki, founder of **Truly Human AI**, an AI-first product company building personalized training companions for competitive ballroom dancers.
+
+
