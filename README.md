@@ -67,6 +67,14 @@ The agent responds by requesting three pieces of information:
 3. The approximate length of the routine in seconds
 
 
+<img width="1426" height="527" alt="analyze_audio_tempo" src="https://github.com/user-attachments/assets/909e0b70-5908-4f7d-845e-9154a97ba280" />
+Notice: ADK function tool, analyze_audio_tempo is called 
+
+
+<img width="1430" height="528" alt="propose_phrase_breakdown" src="https://github.com/user-attachments/assets/5c246f9d-f0f7-4bc1-80be-b9832e4969d0" />
+Notice: ADK function tool, propose_phrase_breakdown is called
+
+
 <img width="1425" height="791" alt="image" src="https://github.com/user-attachments/assets/f3ecd682-722a-40c5-94e6-ef17c672da20" />
 Step 3: The dancer enters a prompt with the requested information: "I want to practice my showcase. It's a 90-second Waltz in 3/4 time. The video is located at C:\Users\Julia\Videos\V_Rhythm.mp4."
 The agent then works through the request transparently, showing each step:
