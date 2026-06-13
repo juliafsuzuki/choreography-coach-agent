@@ -6,8 +6,7 @@ Built for the **Google for Startups: AI Agents Challenge 2026 — Track 1**.
 
 ### Track 1: Build (Net-New Agents)
 
-Start with a blank canvas and a complex business problem. In this track, you will leverage the Agent Development Kit (ADK)—or your preferred open-source framework like LangChain or CrewAI—to architect a net-new autonomous agent. Your goal is to move from static code to declarative intent. Show us how your agent uses the Model Context Protocol (MCP) to securely connect to external tools, gather context, and execute tasks autonomously.
-<br />
+Start with a blank canvas and a complex business problem. In this track, you will leverage the Agent Development Kit (ADK)—or your preferred open-source framework like LangChain or CrewAI—to architect a net-new autonomous agent. Your goal is to move from static code to declarative intent. Show us how your agent uses the Model Context Protocol (MCP) to securely connect to external tools, gather context, and execute tasks autonomously. <br />
 
 ## What it does 
 
