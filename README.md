@@ -58,7 +58,7 @@ Then open the web preview and chat with the agent.
 Step 1: The home page loads in the Agent Development Kit interface. The user (a competitive ballroom dancer) is greeted with the "Choreography Coach Agent," an AI-powered assistant designed to help dancers practice choreographies more effectively by transforming a choreography video into a personalized practice companion. 
 
 
-<img width="1436" height="524" alt="image" src="https://github.com/user-attachments/assets/75c7faed-fd7f-4b44-9815-cf73b4b83dbb" />
+<img width="1435" height="530" alt="Step 2" src="https://github.com/user-attachments/assets/eb05cdcd-9d3a-4d4b-8c8d-608e5e128358" />
 Step 2: The dancer enters the initial prompt: "Can you help me practice my Waltz routine?"
 The agent responds by requesting three pieces of information:
 
