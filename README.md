@@ -12,7 +12,7 @@ Start with a blank canvas and a complex business problem. In this track, you wil
 
 ## What it does 
 
-Choreography Coach Agent is an autonomous agent built with the **Google Agent Development Kit (ADK)** and powered by **Gemini 2.5 Flash**. A competitive dancer hands the agent a showcase video and a dance style.
+Personalized Choreography Practice Companion is an autonomous agent built with the **Google Agent Development Kit (ADK)** and powered by **Gemini 2.5 Flash**. A competitive dancer hands the agent a showcase video and a dance style.
 The agent then:
 
 1. Analyzes the music's tempo and beat structure
